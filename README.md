@@ -27,10 +27,12 @@ The ipyvizzu library is 100% compatible with Pandas dataframes, so it is very si
  
 **Exploratory Data Analysis on Layoffs 2022**:
 
+
 - Startup layoffs as reported on [Layoffs.fyi](https://layoffs.fyi/) since COVID-19 (11 March 2020)
 - In this exploratory data analysis project we will insights from Layoffs 2022 dataset. We will gain incredible insights from their distribution and classifications.
 
-![Screenshot from 2022-12-29 15-43-13](https://user-images.githubusercontent.com/31788971/209939845-127a6d83-3749-4846-b2ca-6d35399746d2.png)
+**snapshots :Exploratory Data Analysis**
+![Screenshot from 2022-12-29 15-43-13](https://user-images.githubusercontent.com/31788971/209939845-127a6d83-3749-4846-b2ca-6d35399746d2.png) ![Screenshot from 2022-12-29 15-42-57](https://user-images.githubusercontent.com/31788971/209940071-a5eda5d1-7326-41d6-b371-32ae13c7e673.png)
 
 
 
