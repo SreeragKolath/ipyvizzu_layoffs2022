@@ -57,7 +57,7 @@ The ipyvizzu library is 100% compatible with Pandas dataframes, so it is very si
 **Conclusions from layoff2022 dataset**
 
  - Top companies with maximun number of Layoffs: **Meta**,**Amazon**,**Booking.com**,**Cisco** and **Twitter**
- - **Transportaion** sector have laid off People more than anyone else
+ - **Transportation** sector have laid off People more than anyone else
  - The **United States** has seen the most layoffs, followed by **India**.
  - **2022** have the most no of layoffs , **US**, **India**, **Brazil** with large no of Layoffs followed by other countries
  - **Education** sector in **india** is largely affected by laid off followed by other sectors
