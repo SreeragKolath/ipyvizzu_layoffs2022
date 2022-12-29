@@ -50,6 +50,9 @@ The ipyvizzu library is 100% compatible with Pandas dataframes, so it is very si
 
 ![Screenshot from 2022-12-29 15-43-28](https://user-images.githubusercontent.com/31788971/209952936-a611e9ad-55fd-49f4-aa78-ed7a0ae77f66.png)
 
+**snapshot :Total No of Layoffs : Year wise calculation**
+
+![Screenshot from 2022-12-29 15-42-57](https://user-images.githubusercontent.com/31788971/209953811-3f7862b7-f4c4-410a-85e9-57a1fdb0012b.png)
 
 
 
