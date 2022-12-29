@@ -17,6 +17,14 @@ ipyvizzu is an animated charting tool for Jupyter, Google Colab, Databricks, Kag
 
 👉**Loading Pandas DataFrame in ipyvizzu**
 
-The ipyvizzu library is 100% compatible with Pandas dataframes, so it is very simple to build graphs directly from data. To add a dataframe to a ipyvizzu chart, you need to declare a Data() object, and then add the dataframe to it:
+The ipyvizzu library is 100% compatible with Pandas dataframes, so it is very simple to build graphs directly from data. To add a dataframe to a ipyvizzu chart, you need to declare a Data() object, and then add the dataframe to it.
+
+👉**Reference**
+
+ - [https://github.com/vizzuhq/ipyvizzu](https://github.com/vizzuhq/ipyvizzu)
+ - [https://towardsdatascience.com/ipyvizzu-a-fast-library-to-build-charts-animations-in-python-126c100522c5/](https://towardsdatascience.com/ipyvizzu-a-fast-library-to-build-charts-animations-in-python-126c100522c5)
+ - [https://ipyvizzu.vizzuhq.com/doc.html](https://ipyvizzu.vizzuhq.com/doc.html)
+
+
 
 
