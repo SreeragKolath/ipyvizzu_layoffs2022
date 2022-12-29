@@ -54,6 +54,15 @@ The ipyvizzu library is 100% compatible with Pandas dataframes, so it is very si
 
 ![Screenshot from 2022-12-29 15-42-57](https://user-images.githubusercontent.com/31788971/209953811-3f7862b7-f4c4-410a-85e9-57a1fdb0012b.png)
 
+**Conclusions from the layoff2022 dataset**
+
+ - Top companies with maximun number of Layoffs: **Meta**,**Amazon**,**Booking.com**,**Cisco** and **Twitter**
+ - **Transportaion** sector have laid off People more than anyone else
+ - The **United States** has seen the most layoffs, followed by **India**.
+ - **2022** have the most no of layoffs , **US**, **India**, **Brazil** with large no of Layoffs followed by other countries
+ - **Education** sector in **india** is heavinly affected by laid off followed by others
+ 
+
 
 
 
