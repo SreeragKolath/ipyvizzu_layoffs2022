@@ -10,3 +10,9 @@ ipyvizzu is an animated charting tool for Jupyter, Google Colab, Databricks, Kag
 - Defaults based on data visualization guidelines;
 - Works with Pandas dataframe, while also JSON and inline data input is available;
 - Auto scrolling feature to keep the actual chart in position while executing multiple cells
+
+**Installing ipyvizzu**
+
+-**!pip install ipyvizzu**
+
+
