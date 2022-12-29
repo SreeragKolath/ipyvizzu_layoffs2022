@@ -42,6 +42,10 @@ The ipyvizzu library is 100% compatible with Pandas dataframes, so it is very si
 
 ![Screenshot from 2022-12-29 18-03-23](https://user-images.githubusercontent.com/31788971/209951784-e328172d-c6b0-4cfe-99d4-e89fdb5bcf23.png)
 
+**snapshot :Most affected Locations in India**
+
+![Screenshot from 2022-12-29 15-43-28](https://user-images.githubusercontent.com/31788971/209952936-a611e9ad-55fd-49f4-aa78-ed7a0ae77f66.png)
+
 
 
 
