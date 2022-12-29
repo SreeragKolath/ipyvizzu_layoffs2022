@@ -38,6 +38,10 @@ The ipyvizzu library is 100% compatible with Pandas dataframes, so it is very si
 - **6. Most affected Sectors in India**
 - **7. Most affected locations in India**
 
+**snapshot: Top Companies in terms of Layoffs**
+
+![Screenshot from 2022-12-29 15-42-12](https://user-images.githubusercontent.com/31788971/209953478-55958e02-5dfd-4fe3-b563-fc1e701f45f4.png)
+
 **snapshot :Most affected Sectors in India**
 
 ![Screenshot from 2022-12-29 18-03-23](https://user-images.githubusercontent.com/31788971/209951784-e328172d-c6b0-4cfe-99d4-e89fdb5bcf23.png)
