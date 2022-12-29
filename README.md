@@ -24,6 +24,11 @@ The ipyvizzu library is 100% compatible with Pandas dataframes, so it is very si
  - [https://github.com/vizzuhq/ipyvizzu](https://github.com/vizzuhq/ipyvizzu)
  - [https://towardsdatascience.com/ipyvizzu-a-fast-library-to-build-charts-animations-in-python-126c100522c5/](https://towardsdatascience.com/ipyvizzu-a-fast-library-to-build-charts-animations-in-python-126c100522c5)
  - [https://ipyvizzu.vizzuhq.com/doc.html](https://ipyvizzu.vizzuhq.com/doc.html)
+ 
+**Exploratory Data Analysis on Layoffs 2022**:
+
+- Startup layoffs as reported on [Layoffs.fyi](https://layoffs.fyi/) since COVID-19 (11 March 2020)
+- In this exploratory data analysis project we will insights from Layoffs 2022 dataset. We will gain incredible insights from their distribution and classifications.
 
 
 
